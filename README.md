@@ -1,8 +1,11 @@
 # stock-analysis
 
 ## Overview of Project: 
-#### Explain the purpose of this analysis.*
-#### The purpose and background are well defined (2 pt).
+### *Explain the purpose of this analysis.*
+#### The purpose of this Module and Project is to learn how to code in VBA (Visual Basic for Applications) Macros in Excel using Microsoft Office applications, and thus learning some of the building blocks of programming. 
+####
+#### VBA code was written to create VBA Macros to help Steve with the analysis of a set of green energy stocks contained within the Excel dataset (green_stocks.xlsx) he has given me. VBA was used to automate the tasks he requested to be used with any stock and with multiple years returning the Stock Ticker Name, Stock Daily Volume, and Average Daily Return. 
+
 ##
 ## Results: 
 #### Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.*
