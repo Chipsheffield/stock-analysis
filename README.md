@@ -7,10 +7,11 @@
 #### VBA code was written to create VBA Macros to help Steve with the analysis of a set of green energy stocks contained within the Excel dataset (green_stocks.xlsx) he has given me. VBA was used to automate the tasks he requested to be used with any stock and with multiple years returning the Stock Ticker Name, Stock Daily Volume, and Average Daily Return. 
 
 ##
-## Results: 
+ ## Results: 
 ### *Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.*
-#### The analysis is well described with screenshots and code (4 pt).
-####
+#### 
+#### For the DQ Stock that Steve’s Parents are interested in trading in, it had the highest return at 199.4% in 2017 (See Image of 2017 Chart Analysis at https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/VBA_Challenge_2017.png) and the worst Return at -62.6% in 2018 (See Image of 2018 Chart Analysis at https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/VBA_Challenge_2018.png ) Based on DQ’s history I would not recommend it for purchase. The two stocks I would recommend instead are ENPH which went from 129.5% in 2017 to 81.9% in 2018, or RUN which grew from 5.5% to 84.4%. 
+
 ##
 ## Summary: 
 ### In a summary statement, address the following questions.
