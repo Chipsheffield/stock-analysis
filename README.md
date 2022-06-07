@@ -14,7 +14,7 @@
 ####
 ![alt text](https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/VBA_Challenge_2017.png)
 #### 
-#### and the worst Return at -62.6% in 2018 (See Image of 2018 Chart Analysis at 
+#### and the worst Return at -62.6% in 2018 (See Image of 2018 Chart Analysis). 
 #### 
 ![alt text](https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/VBA_Challenge_2018.png ) 
 ####
@@ -24,7 +24,7 @@
 #### 
 ![alt text](https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/green_stocks%202017.png) 
 #### 
-#### to 0.1210938 seconds for the Refactored, and the 2018 script decreased from Original ( See Image of 2018 green_stock Chart Analysis at)
+#### to 0.1210938 seconds for the Refactored, and the 2018 script decreased from Original ( See Image of 2018 green_stock Chart Analysis).
 #### 
 ![alt text](https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/green_stocks%202018.png)
 ####
