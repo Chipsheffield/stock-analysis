@@ -12,7 +12,7 @@
 #### 
 #### For the DQ Stock that Steve’s Parents are interested in trading in, it had the highest return at 199.4% in 2017 (See Image of 2017 Chart Analysis at https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/VBA_Challenge_2017.png) and the worst Return at -62.6% in 2018 (See Image of 2018 Chart Analysis at https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/VBA_Challenge_2018.png ) Based on DQ’s history I would not recommend it for purchase. The two stocks I would recommend instead are ENPH which went from 129.5% in 2017 to 81.9% in 2018, or RUN which grew from 5.5% to 84.4%. 
 ####
-#### In terms of performance the 2017 script decreased from Original at 0.6796875 (   )seconds to 0.1210938 seconds for the Refactored, and the 2018 script decreased from Original (   ) at 0.671875 seconds to 0.1054688 seconds for the Refactored, thus increasing the efficiency. 
+#### In terms of performance the 2017 script decreased from Original at 0.6796875 seconds ( See Image of 2017 green_stock Chart Analysis at https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/green_stocks%202017.png   ) to 0.1210938 seconds for the Refactored, and the 2018 script decreased from Original ( See Image of 2018 green_stock Chart Analysis at https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/green_stocks%202018.png   ) at 0.671875 seconds to 0.1054688 seconds for the Refactored, thus increasing the efficiency of the code. 
 
 ##
 ## Summary: 
