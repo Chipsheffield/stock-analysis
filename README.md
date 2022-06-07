@@ -14,7 +14,9 @@
 ####
 ![alt text](https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/VBA_Challenge_2017.png)
 #### 
-#### and the worst Return at -62.6% in 2018 (See Image of 2018 Chart Analysis at ![alt text](https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/VBA_Challenge_2018.png ) 
+#### and the worst Return at -62.6% in 2018 (See Image of 2018 Chart Analysis at 
+#### 
+![alt text](https://github.com/Chipsheffield/stock-analysis/blob/main/Resources%20for%20Module%202%20Challange/VBA_Challenge_2018.png ) 
 ####
 #### Based on DQ’s history I would not recommend it for purchase. The two stocks I would recommend instead are ENPH which went from 129.5% in 2017 to 81.9% in 2018, or RUN which grew from 5.5% to 84.4%. 
 #### 
